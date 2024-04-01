@@ -1,2 +1,2 @@
-# java-studies
+# Java Studies
 Repository for Java studies
