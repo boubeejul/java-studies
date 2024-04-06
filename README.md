@@ -7,4 +7,3 @@ Repository for my Java studies and reviews. The topics include:
 - [ ] Servlet and JSP
 - [ ] Hibernate
 - [ ] Rest API
-- [ ] Spring Boot
